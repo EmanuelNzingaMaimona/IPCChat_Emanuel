@@ -1,0 +1,8 @@
+-Chat: Serviço que possibilita a comunicação escrita on-line entre vários utilizadores simultâneo da Internet. É a forma mais próxima que seria uma conversa escrita.
+-Protocolo:conjunto de regras e convenções utilizadas para facilitar a comunicação.
+-Sockect: é a união das duas informações necessárias à comunicação de prototolos UDP e TCP
+-TCP e UDP são protocolos de transporte
+
+IP(Internet Protocol)
+TCP(Transmission Control Protocol) é usado por outros contolos de alto nível como FTP e HTTP.
+UDP(User Datagram Protocol)

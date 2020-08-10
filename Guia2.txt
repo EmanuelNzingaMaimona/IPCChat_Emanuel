@@ -1,0 +1,7 @@
+-Chat: Serviço que possibilita a comunicação escrita on-line entre vários utilizadores simultâneo da Internet. É a forma mais próxima que seria uma conversa escrita.
+-Só pode haver comunicação se os dois computadores estiverem conectados com o mesmo meio (rede Ethernet, Wi-fi ou wireless).
+-Utilize o atalho CTRL+B para bloquear o programa.
+-Para guardar ou limpar o histórico do chat, vá no "MENU","Histórico" e selecione a opção desejada.
+-O botão "Desligar" serve para encerrar uma conexão, não usalá para interromper anarticamente, pois ela coloca o seu computador invisível, ou seja não haverá
+nenhuma comunicação.
+-O botão "Actualizar" serve para religar a sua conexão, ou colocar o computador visivel, para a comunicação.
